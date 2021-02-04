@@ -142,6 +142,7 @@
      <None Include="Assets\Sunao Shader\Shader\Sunao_Shader_Transparent_SO.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-Particle-Multiply.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-BumpedDiffuse.shader" />
+     <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-StandardLite.shader" />
      <None Include="Assets\Sunao Shader\Shader\Sunao_Shader_Transparent.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-BumpedSpecular.shader" />
