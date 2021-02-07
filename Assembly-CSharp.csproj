@@ -114,6 +114,8 @@
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-Skybox.shader" />
      <None Include="Assets\Sunao Shader\Shader\Cginc\SunaoShader_Core.cginc" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-Particle-Add.shader" />
+     <None Include="Assets\GlassShaders\RainAssets\RainyMirror.shader" />
+     <None Include="Assets\GlassShaders\FakeGlass Rain.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Video-RealtimeEmissiveGamma.shader" />
      <None Include="Assets\Sunao Shader\Shader\Cginc\SunaoShader_SC.cginc" />
      <None Include="Assets\UdonSharp\version.txt" />
@@ -128,6 +130,7 @@
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-MatCapLit.shader" />
      <None Include="Assets\Sunao Shader\Shader\Cginc\SunaoShader_Function.cginc" />
      <None Include="Assets\VRCSDK\version.txt" />
+     <None Include="Assets\GlassShaders\FakeGlass.shader" />
      <None Include="Assets\Sunao Shader\Shader\Cginc\SunaoShader_Frag.cginc" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mirror.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-Lightmapped.shader" />
@@ -137,12 +140,14 @@
      <None Include="Assets\VRCSDK\Sample Assets\PanoViewer\Panosphere.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-Particle-Alpha.shader" />
      <None Include="Assets\Sunao Shader\Shader\Sunao_Shader_Stencil_W.shader" />
+     <None Include="Assets\GlassShaders\RainAssets\AUTHORS.txt" />
      <None Include="Assets\Sunao Shader\Shader\Sunao_Shader_Cutout.shader" />
      <None Include="Assets\UdonSharp\Examples\Tutorials\ExampleTutorialTemplate.txt" />
      <None Include="Assets\Sunao Shader\Shader\Sunao_Shader_Transparent_SO.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-Particle-Multiply.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-BumpedDiffuse.shader" />
      <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
+     <None Include="Assets\GlassShaders\RainAssets\RainySolid.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-StandardLite.shader" />
      <None Include="Assets\Sunao Shader\Shader\Sunao_Shader_Transparent.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-BumpedSpecular.shader" />
