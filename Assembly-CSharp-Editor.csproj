@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\harry_t\Editor\ht8b_inspector.cs" />
      <Compile Include="Assets\SimpleLightProbePlacer\Editor\LightProbeGroupControlEditor.cs" />
      <Compile Include="Assets\SimpleLightProbePlacer\Editor\LightProbeVolumeEditor.cs" />
      <Compile Include="Assets\Sunao Shader\Editor\SunaoShaderGUI.cs" />
