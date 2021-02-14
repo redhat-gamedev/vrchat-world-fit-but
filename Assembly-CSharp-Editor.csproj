@@ -56,6 +56,7 @@
      <Compile Include="Assets\SimpleLightProbePlacer\Editor\LightProbeGroupControlEditor.cs" />
      <Compile Include="Assets\SimpleLightProbePlacer\Editor\LightProbeVolumeEditor.cs" />
      <Compile Include="Assets\Sunao Shader\Editor\SunaoShaderGUI.cs" />
+     <Compile Include="Assets\USharpVideo\Shaders\Editor\StandardVideoEmissiveGUI.cs" />
      <Compile Include="Assets\VRCSDK\Dependencies\Oculus\Spatializer\Editor\ONSPAudioSourceEditor.cs" />
      <Compile Include="Assets\VRCSDK\Dependencies\VRChat\Editor\AWS\S3Manager.cs" />
      <Compile Include="Assets\VRCSDK\Dependencies\VRChat\Editor\Components\ApiCacheEditor.cs" />

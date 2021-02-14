@@ -73,6 +73,12 @@
      <Compile Include="Assets\UdonSharp\Examples\Utilities\Synced\MasterToggleObject.cs" />
      <Compile Include="Assets\UdonSharp\Examples\Utilities\TrackingDataFollower.cs" />
      <Compile Include="Assets\UdonSharp\Examples\Utilities\WorldAudioSettings.cs" />
+     <Compile Include="Assets\USharpVideo\Scripts\EmissiveUpdater.cs" />
+     <Compile Include="Assets\USharpVideo\Scripts\ExampleVideoPlayer.cs" />
+     <Compile Include="Assets\USharpVideo\Scripts\SceneFixup\SceneLightmapFixer.cs" />
+     <Compile Include="Assets\USharpVideo\Scripts\SyncModeController.cs" />
+     <Compile Include="Assets\USharpVideo\Scripts\USharpVideoPlayer.cs" />
+     <Compile Include="Assets\USharpVideo\Scripts\VolumeController.cs" />
      <Compile Include="Assets\VRCSDK\Dependencies\Oculus\Spatializer\Scripts\ONSPAudioSource.cs" />
      <Compile Include="Assets\VRCSDK\Dependencies\Oculus\Spatializer\Scripts\ONSPSettings.cs" />
      <Compile Include="Assets\VRCSDK\Dependencies\VRChat\Scripts\ApiFileHelper.cs" />
@@ -132,6 +138,7 @@
      <None Include="Assets\VRCSDK\version.txt" />
      <None Include="Assets\GlassShaders\FakeGlass.shader" />
      <None Include="Assets\Sunao Shader\Shader\Cginc\SunaoShader_Frag.cginc" />
+     <None Include="Assets\USharpVideo\Shaders\StandardVideoEmissive.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mirror.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-Lightmapped.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\VRChat-Sprites-Default.shader" />
@@ -140,12 +147,15 @@
      <None Include="Assets\VRCSDK\Sample Assets\PanoViewer\Panosphere.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-Particle-Alpha.shader" />
      <None Include="Assets\Sunao Shader\Shader\Sunao_Shader_Stencil_W.shader" />
+     <None Include="Assets\USharpVideo\Shaders\FloorGrid.shader" />
      <None Include="Assets\GlassShaders\RainAssets\AUTHORS.txt" />
      <None Include="Assets\Sunao Shader\Shader\Sunao_Shader_Cutout.shader" />
      <None Include="Assets\UdonSharp\Examples\Tutorials\ExampleTutorialTemplate.txt" />
      <None Include="Assets\Sunao Shader\Shader\Sunao_Shader_Transparent_SO.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-Particle-Multiply.shader" />
+     <None Include="Assets\USharpVideo\Shaders\StandardVideoCore.cginc" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-BumpedDiffuse.shader" />
+     <None Include="Assets\USharpVideo\Shaders\UI-MerlinUI.shader" />
      <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
      <None Include="Assets\GlassShaders\RainAssets\RainySolid.shader" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\Mobile\VRChat-Mobile-StandardLite.shader" />
