@@ -60,6 +60,7 @@
      <Compile Include="Assets\harry_t\us\ht8b_otherhand.cs" />
      <Compile Include="Assets\harry_t\us\ht8b_positioner.cs" />
      <Compile Include="Assets\harry_t\us\ht8b_set4b.cs" />
+     <Compile Include="Assets\Scripts\OwnerOnlyGlobalToggleButton.cs" />
      <Compile Include="Assets\Scripts\TeleportButton.cs" />
      <Compile Include="Assets\Scripts\ToggleButton.cs" />
      <Compile Include="Assets\SimpleLightProbePlacer\Scripts\LightProbeGroupControl.cs" />
